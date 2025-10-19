@@ -1,0 +1,83 @@
+word,short
+sandstone,sst
+shale,sh
+clay,cl
+claystone,clst
+silty,slt
+siltstone,slts
+gravel,grv
+conglomerate,cgl
+breccia,brc
+diamictite,dimct
+limestone,lst
+mudstone,mdst
+wackstone,wkst
+packstone,pkst
+grainstone,grst
+boundstone,bdst
+dolomite,dol
+marl,mrl
+gypsum,gyp
+anhydrite,anh
+salt,salt
+black,blk
+blue,blu
+brown,brn
+buff,buf
+green,gn
+grey,gy
+olive,olv
+orange,orng
+pink,pk
+purple,pu
+red,red
+white,wh
+yellow,yel
+metalic,mtl
+light,lt
+medium,med
+dark,dk
+reddish brown,rd bn
+loose,lse
+colorless,clrls
+friable,fri
+soft,sft
+moderately soft,(sft)
+hard,hd
+moderately hard,(hd)
+good visible porosity,por
+very fine,fSL
+fine,fSU
+medium,mSL
+coarse,crsSL
+very coarse,crsSU
+calcareos,calc
+pyritic,pyr
+argillaceous,arg
+well sorted,srt
+moderately sorted,(srt)
+angular,ang
+subangular,(ang)
+rounded,rnd
+subrounded,(rnd)
+poor visible porosity,(por)
+non visible porosity,non por
+chalky,chky
+reddish, rd
+brown, bn
+crystalline,xln
+sucrosic,suc
+microcrystalline,mxln
+algae,alg
+to,-
+transparent,trnsp
+translucent,trnsl
+kaolinitic, kao
+silty,slty
+blocky,blky
+subblocky,(blky)
+sub-blocky,(blky)
+occasionally,occ
+quartz,q
+traces,tr
+greyish white,gy wht
